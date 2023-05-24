@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db2517ea.css",
+    "main.js": "/static/js/main.35c20461.js",
+    "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/car-12.jpg": "/static/media/car-12.80bc26cbcb28d9c47562.jpg",
+    "static/media/car-9.jpg": "/static/media/car-9.0fa724b48540ce78338f.jpg",
+    "static/media/car-11.jpg": "/static/media/car-11.74ed78095bb27d2b8bc5.jpg",
+    "static/media/car-2.jpg": "/static/media/car-2.d229ab0cb4b6c32bf723.jpg",
+    "static/media/car-10.jpg": "/static/media/car-10.e298ff60f2d6cd4e5e64.jpg",
+    "static/media/car-4.jpg": "/static/media/car-4.4b025f3ae8449d1dd4c8.jpg",
+    "static/media/car-5.jpg": "/static/media/car-5.e526f789ee0efd5311b0.jpg",
+    "static/media/car-3.jpg": "/static/media/car-3.80cdcd116f18c660b569.jpg",
+    "static/media/car-1.jpg": "/static/media/car-1.86510f2e141b931e1898.jpg",
+    "static/media/car-6.jpg": "/static/media/car-6.7ee6ee810d4c42db655b.jpg",
+    "static/media/car-8.jpg": "/static/media/car-8.79b5505efb48fe5f2c5b.jpg",
+    "static/media/car-7.jpg": "/static/media/car-7.5d2eb147519cafe96328.jpg",
+    "static/media/outline-icons.svg": "/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/brand-icons.woff": "/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/outline-icons.woff": "/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "index.html": "/index.html",
+    "main.db2517ea.css.map": "/static/css/main.db2517ea.css.map",
+    "main.35c20461.js.map": "/static/js/main.35c20461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db2517ea.css",
+    "static/js/main.35c20461.js"
+  ]
+}
